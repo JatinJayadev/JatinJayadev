@@ -11,7 +11,7 @@
 
 - 💬 Feel free to ask me anything about **HTML**, **CSS**, **JavaScript**, **C++**, and **React**.
 
-- 📫 How to reach me **jatinjayadev@gmail.com**
+- 📫 You can reach me at **jatinjayadev@gmail.com**. Let's connect!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
