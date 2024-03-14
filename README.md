@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 Currently diving deep into **React** development!
 
-- 💬 Ask me about **Html,Css,Javascript,C++ and React**
+- 💬 Feel free to ask me anything about **HTML**, **CSS**, **JavaScript**, **C++**, and **React**.
 
 - 📫 How to reach me **jatinjayadev@gmail.com**
 
