@@ -22,7 +22,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,cpp,figma,tailwind&theme=light)]
+![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,cpp,figma,tailwind&theme=light)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatinjayadev&show_icons=true&locale=en&layout=compact" alt="jatinjayadev" /></p>
